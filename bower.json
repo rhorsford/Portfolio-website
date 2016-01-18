@@ -1,0 +1,23 @@
+{
+  "name": "newsite-route",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.3.0",
+    "angular-animate": "~1.4.7",
+    "angular-cookies": "^1.3.0",
+    "angular-resource": "^1.3.0",
+    "angular-route": "^1.3.0",
+    "angular-sanitize": "^1.3.0",
+    "angular-touch": "^1.3.0",
+    "angular-ui-router": "~0.2.15",
+    "font-awesome": "~4.4.0",
+    "foundation": "zurb/bower-foundation#~5.5.3",
+    "scrollmagic": "ScrollMagic#~2.0.5",
+    "skrollr": "~0.6.30"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.3.0"
+  },
+  "appPath": "app",
+  "moduleName": "newsiteRouteApp"
+}
